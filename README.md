@@ -1,4 +1,4 @@
-# AWS_S3_static_website
+# AWS S3 Static Website
 
 Creating an S3 bucket static website is a common task for hosting a simple, static web application on Amazon Web Services (AWS). Here's a step-by-step task description:
 
